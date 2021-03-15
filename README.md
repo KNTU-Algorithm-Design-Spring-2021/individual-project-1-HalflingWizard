@@ -5,7 +5,7 @@
 ##### اسفند 99 - طراحی الگوریتم دکتر احمدی
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KNTU-Algorithm-Design-Spring-2021/individual-project-1-HalflingWizard/main/img/MBR.png" />
+  <img src="https://s16.picofile.com/file/8428105984/MBR.png" />
 </p>
 
 ### روش کار
@@ -17,7 +17,7 @@
 با توجه به روش بهینه ای که برای یافتن کوچکترین و بزرگترین مقادیر در میان X ها و Y ها استفاده شده، برنامه با پیچیدگی O(n) اجرا می شود که نمودار زیر نیز این موضوع را تایید می کند.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KNTU-Algorithm-Design-Spring-2021/individual-project-1-HalflingWizard/main/img/diagram.png" />
+  <img src="https://s17.picofile.com/file/8428105976/diagram.png" />
 </p>
 
 </div>
